@@ -1,0 +1,23 @@
+.env
+data/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+matrix*.png
+matrrix.png
+outreach/
+
+.vercel
+.env*
+!.env.example
+.DS_Store
+
+# Source building-regulation documents
+TB_Part_F1_2022_On-Line_Publication.pdf
+TechnicalBookletR2012.pdf
+Track_changes_TBE_for_publication_-_Final_3_REDUCED.pdf
+knowledge_base/regulations_combined.txt
